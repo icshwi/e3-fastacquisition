@@ -1,0 +1,3 @@
+[submodule "m-epics-fastacquisition"]
+	path = m-epics-fastacquisition
+	url = https://bitbucket.org/europeanspallationsource/m-epics-fastacquisition
